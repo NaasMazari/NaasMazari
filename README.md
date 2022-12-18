@@ -1,6 +1,7 @@
+![NAAS MAZARI](https://user-images.githubusercontent.com/42710710/208280859-7b971d95-c231-45db-beff-42dce7b868d0.png)
 
 
-https://user-images.githubusercontent.com/42710710/208280743-814882f7-8b5a-4866-b151-19d102b076f6.mp4
+
 
 
 
