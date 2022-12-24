@@ -7,11 +7,9 @@
 
 
 # mazari naas
+"Hi! I am a software engineer with a background in C# and Java. I have worked on a variety of projects ranging from network-related topics like NAT traversal and STUN to desktop application and web development. I am a quick learner and adapt easily to new programming languages and tools. I am highly skilled in problem-solving and enjoy tackling challenging projects that allow me to continue learning and growing as a developer."
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: VUE JS / REACT / JS / HTML / CSS
-
+ 
 - 🔭 I’m currently working on this page. 
 # Skills and Experience
 # showcase
